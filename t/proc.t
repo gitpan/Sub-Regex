@@ -10,4 +10,3 @@ ok( looking_for("Amanda"), "Here" );
 ok( LOOK_FOR("Amanda"), "Here" );
 ok( LOOKs_FOR("Amanda"), "Here" );
 ok( LooKing_FOR("Amanda"), "Here" );
-
